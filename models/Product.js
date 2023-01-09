@@ -10,7 +10,6 @@ class Product extends Model {}
 Product.init(
   {
     // Columns defined below
-  
   id: {
     type: DataTypes, integer,
     primaryKey: true,
@@ -18,11 +17,11 @@ Product.init(
     allowNull: false
   },
   product_name: {
-    type: DataTypes.string,
+    type: DataTypes.STRING,
     allowNull: false
   },
   Price: {
-    type: DataTypes.float,
+    type: DataTypes.FLOAT,
     allowNull: false,
     validate: {
       isDecimal: true
