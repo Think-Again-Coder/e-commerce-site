@@ -13,7 +13,7 @@ The API routes can be tested via Insomnia/Postman to verify the Post, Put, and D
 
 The images here represents an example of the routes used to display information for the user.  
 
-![E-Commerce Images](/Assets/)
+![E-Commerce Images](/Assets/13-orm-homework-demo-01.gif)
 
 ![E-Commerce Images](/Assets/)
 
