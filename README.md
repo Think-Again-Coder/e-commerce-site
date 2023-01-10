@@ -15,12 +15,11 @@ The images here represents an example of the routes used to display information 
 
 ![E-Commerce Images](/Assets/13-orm-homework-demo-01.gif)
 
-![E-Commerce Images](/Assets/)
 
 
 ### Summary: 
 
-This is a great tool for anybody who may want to run an e-commerce site and want to keep track of various products via tags.  
+This is a great tool for anybody who may want to run an e-commerce site and want to keep track of various products via tags. I was unable to test the routes and also record the video but intend to keep working on this project.  
 
 
 --- 
